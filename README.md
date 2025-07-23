@@ -1,6 +1,6 @@
 # Social Media Sentiment Tracking System
 
-A Social Media "Sentiment" Tracking System which analyses and visualises brand sentiment from Twitter or Reddit posts using Python, Azure AI Studio, and Power BI.
+Social Media "Sentiment" Tracking System which analyses and visualises brand sentiment from Twitter or Reddit posts using Python, Azure AI Studio, and Power BI.
 
 ## Features
 - Collects posts from Twitter or Reddit
