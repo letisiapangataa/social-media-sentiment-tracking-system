@@ -1,0 +1,4 @@
+requests
+pandas
+azure-ai-textanalytics
+python-dotenv
